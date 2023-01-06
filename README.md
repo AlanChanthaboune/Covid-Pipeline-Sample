@@ -45,7 +45,6 @@ Submit a Python/SQL script, better yet - a **Jupyter notebook**, that satisfies 
 
 While you are not asked to save the data file(s) to an actual cloud storage bucket or copy it from a cloud storage bucket into your database - you are encouraged to do so! Bonus points if you are able to connect and copy the data into a cloud-native relational database too (Snowflake, Redshift, AWS RDS, etc.). Feel free to use any cloud provider you wish and any relational database systems you’d like.
 
-Have fun and don't be afraid to show off or go above and beyond! If you have any questions, feel free to reach out to the hiring manager.
 
 
 ## CodeSubmit
